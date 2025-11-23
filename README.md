@@ -86,3 +86,8 @@ Com o mesmo JSON acima.
 ## 📝 8. Encerrar o servidor
 CTRL + C no terminal.
 
+## Integrantes:
+Gabriel Gomes Mancera — RM: 555427
+Juliana de Andrade Sousa — RM: 558834
+Victor Hugo Carvalho Pereira — RM: 558550
+
