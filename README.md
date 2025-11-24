@@ -2,6 +2,9 @@
 
 Este repositório contém o **microserviço Python** responsável por calcular o RitmoScore, analisar texto, gerar missão sugerida e insight, além de manter histórico e detectar tendência de bem-estar.
 
+##Link para API integrada:
+https://github.com/Juliana-de-Andrade/IOT-API-GS.git
+
 ## 🚀 1. Estrutura do Projeto
 ```
 perifaflow-ritmoscore-ia/
